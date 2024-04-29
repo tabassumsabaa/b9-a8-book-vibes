@@ -12,9 +12,9 @@ const ListedBook = () => {
 
     return (
         <div className="mt-10">
-            <h2 className="text-5xl font-semibold text-center">Books</h2>
+            <h2 className="text-5xl font-semibold text-center mb-10">Books</h2>
             <div className="">             
-              <div>
+              <div  className="grid grid-cols-3 gap-6">
                  {
                     BookList.map(book => <Book key={book.bookId} book={book}></Book>)
                  }         
