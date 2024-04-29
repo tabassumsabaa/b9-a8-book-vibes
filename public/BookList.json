@@ -1,0 +1,81 @@
+    [
+      {
+        "bookId": 1,
+        "bookName": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "https://i.ibb.co/5FFKsmh/the-Great-Book.png",
+        "review": "A captivating portrayal of the Jazz Age.",
+        "totalPages": 180,
+        "rating": 4.5,
+        "category": "Classic",
+        "tags": ["Fiction", "Romance", "Tragedy"],
+        "publisher": "Scribner",
+        "yearOfPublishing": 1925
+      },
+      {
+        "bookId": 2,
+        "bookName": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "https://i.ibb.co/KKP9WZL/kill.jpg",
+        "review": "A profound exploration of racial injustice.",
+        "totalPages": 324,
+        "rating": 4.7,
+        "category": "Classic",
+        "tags": ["Fiction", "Legal Drama", "Southern Gothic"],
+        "publisher": "J. B. Lippincott & Co.",
+        "yearOfPublishing": 1960
+      },
+      {
+        "bookId": 3,
+        "bookName": "1984",
+        "author": "George Orwell",
+        "image": "https://i.ibb.co/Ypc9YSy/download.jpg",
+        "review": "A chilling dystopian vision of a totalitarian society.",
+        "totalPages": 328,
+        "rating": 4.6,
+        "category": "Dystopian",
+        "tags": ["Fiction", "Political Satire", "Social Criticism"],
+        "publisher": "Secker & Warburg",
+        "yearOfPublishing": 1949
+      },
+      {
+        "bookId": 4,
+        "bookName": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://i.ibb.co/XVBMq6S/the-Catcher.jpg",
+        "review": "An iconic coming-of-age novel with a rebellious spirit.",
+        "totalPages": 224,
+        "rating": 4.4,
+        "category": "Classic",
+        "tags": ["Fiction", "Psychological", "Teen"],
+        "publisher": "Little, Brown and Company",
+        "yearOfPublishing": 1951
+      },
+      {
+        "bookId": 5,
+        "bookName": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "image": "https://i.ibb.co/54Lxtks/harry.jpg",
+        "review": "An enchanting start to an epic journey into the wizarding world.",
+        "totalPages": 332,
+        "rating": 4.8,
+        "category": "Fantasy",
+        "tags": ["Fiction",   "Magic",  "Adventure"],
+        "publisher": "Bloomsbury",
+        "yearOfPublishing": 1997
+      },
+      {
+        "bookId": 6,
+        "bookName": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "image": "https://i.ibb.co/dkxC6q7/hobbit.jpg",
+        "review": "A delightful adventure filled with dwarves, dragons, and hobbits.",
+        "totalPages": 310,
+        "rating": 4.6,
+        "category": "Fantasy",
+        "tags": ["Fiction", "Adventure", "Middle Earth"],
+        "publisher": "Allen & Unwin",
+        "yearOfPublishing": 1937
+      }
+    ]
+  

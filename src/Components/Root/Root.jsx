@@ -1,9 +1,11 @@
 
 import { Outlet } from 'react-router-dom';
+import NavBar from '../NavBar/NavBar';
 
 const Root = () => {
     return (
-        <div>
+        <div className=' w-3/4 m-auto'>
+            <NavBar></NavBar>
             <Outlet></Outlet>
         </div>
     );
