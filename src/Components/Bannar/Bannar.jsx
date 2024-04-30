@@ -1,7 +1,8 @@
 import { Link } from "react-router-dom";
+// import ListedBook from "../ListedBook/ListedBook";
 
 const Bannar = () => {
-  
+ 
     return (
         <div>
           <div className="">
@@ -11,8 +12,8 @@ const Bannar = () => {
                  <div className="">
                     <h1 className="text-5xl font-bold w-3/4 mb-6">Books to Cheer Up Your Bookself</h1>                    
                     <div>                      
-                      <Link to={`/listed/`}>
-                          <button onClick={() => setDetailsBooks(DetailsBook.length)} className="btn btn-success">View The List</button>
+                      <Link to={`/listed`}>
+                          <button className="btn btn-success">View The List</button>
                       </Link>
                     </div>
                  </div>

@@ -2,7 +2,7 @@ import { CiStar } from "react-icons/ci";
 import BookDetails from "../BookDetails/BookDetails";
 
 
-const Book = ({book}) => {
+const Book = ({book,  readList}) => {
     const {bookId, image, tags, bookName, author, category, rating} = book;
     return (
         <div>
@@ -24,7 +24,7 @@ const Book = ({book}) => {
                    </div>
                </div>
            </div>
-        
+           
         </div>
     );
 };

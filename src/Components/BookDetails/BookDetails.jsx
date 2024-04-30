@@ -4,7 +4,8 @@ import { useLoaderData, useParams } from "react-router-dom";
 
 const BookDetails = () => {
     const details = useLoaderData();
-    const {bookId} = useParams();   
+    const {bookId} = useParams();
+   
 
     const [DetailsBook, setDetailsBooks] = useState([]);
       useEffect(() =>{

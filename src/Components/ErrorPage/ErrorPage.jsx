@@ -5,7 +5,7 @@ const ErrorPage = () => {
     return (
         <div>
             <h1>OooPs.....!!</h1>
-            <Link to="/">Bake home here</Link>
+            <Link to="/">Back home here</Link>
         </div>
     );
 };
